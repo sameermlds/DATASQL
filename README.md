@@ -1,30 +1,4 @@
 
-* [Advanced Data Transformation in SQL Workshop](#advanced-data-transformation-in-sql-workshop)
-    * [Live virtual workshop](#live-virtual-workshop)
-    * [Prerequisites](#prerequisites)
-    * [Setup](#setup)
-        * [Option 1: Github codespaces (Recommended)](#option-1-github-codespaces-recommended)
-        * [Option 2: Run locally](#option-2-run-locally)
-    * [Data Model](#data-model)
-    * [Topics covered in the workshop](#topics-covered-in-the-workshop)
-    * [Feedback](#feedback)
-
-# Advanced Data Transformation in SQL Workshop
-
-If you like this workshop, you'd love my [Practical Hands on Data Engineering Workshop](https://astounding-architect-5764.ck.page/684e1f422f).
-
-## Live virtual workshop
-
-The workshop will be streamed on YouTube live: [Advanced Data Processing in SQL YouTub Live](https://youtube.com/live/fB4XHC6ZaCs). Post stream, it will be available to watch and follow at your own pace.
-
-**How to use nested data types in SQL, YouTube Link**
-[![Live workshop](https://img.youtube.com/vi/pf2myqLDgPg/0.jpg)](https://www.youtube.com/live/pf2myqLDgPg)
-
-## Prerequisites
-
-1. Sign up for a Github account.
-2. Go through the [Setup](#setup) process and complete the **[0-basics](./0-basics.ipynb)** notebook exercises.
-
 ## Setup
 
 You have two options to run the exercises in this repo
@@ -69,13 +43,10 @@ Note: Have a copy of the data model as you follow along; this will help in under
 
 ![](./tpch_erd.png)
 
-## Topics covered in the workshop
+## Topics covered 
 
 1. [Window functions](./concepts/windows/)
 2. [CTEs](./concepts/CTE/)
 3. [Common query templates for common data processing problems](./concepts/query_templates/)
 4. [Nested data types](./concepts/nested_data_types/)
 
-## Feedback
-
-I'd love to hear any feedback, please send them **[by clicking here](https://jrir55dxz0v.typeform.com/to/FH21xsvY)**.
